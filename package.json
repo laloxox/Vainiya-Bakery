@@ -1,0 +1,16 @@
+{
+  "name": "Vainiya-Bakery-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jquery.js",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
